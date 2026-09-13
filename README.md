@@ -1,0 +1,2 @@
+# wrangler.jsonc
+{   "name": "sasto-room-finder",   "compatibility_date": "2026-09-13",   "assets": {     "directory": "."   } }
